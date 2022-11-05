@@ -1,0 +1,1326 @@
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.AssemblyInfo.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorAssemblyInfo.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorAssemblyInfo.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\staticwebassets\AppointmentManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\staticwebassets\AppointmentManagementSystem.StaticWebAssets.xml
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\scopedcss\bundle\AppointmentManagementSystem.styles.css
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.TagHelpers.input.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.TagHelpers.output.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorCoreGenerate.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\ref\AppointmentManagementSystem.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\libman.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.exe
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.deps.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.runtimeconfig.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.runtimeconfig.dev.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ref\AppointmentManagementSystem.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.Views.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.Views.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.Views.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.CopyComplete
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.genruntimeconfig.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\CustomPartials\_LoginPartial.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\CustomPartials\_AddEditAppointment.cshtml.g.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.StaticWebAssets.xml
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\RestSharp.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\appsettings.json
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\libman.json
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.StaticWebAssets.xml
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.exe
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.deps.json
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.runtimeconfig.json
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.runtimeconfig.dev.json
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\mscorlib.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\netstandard.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.AppContext.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Buffers.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Configuration.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Console.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Drawing.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Memory.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Numerics.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Transactions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Web.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Windows.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\WindowsBase.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.Views.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.Views.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Humanizer.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\RestSharp.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.AssemblyReference.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.AssemblyInfoInputs.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.AssemblyInfo.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.CoreCompileInputs.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorAssemblyInfo.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorAssemblyInfo.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\scopedcss\bundle\AppointmentManagementSystem.styles.css
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\staticwebassets\AppointmentManagementSystem.StaticWebAssets.Manifest.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\staticwebassets\AppointmentManagementSystem.StaticWebAssets.xml
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.TagHelpers.input.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.TagHelpers.output.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorCoreGenerate.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\CustomPartials\_AddEditAppointment.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\CustomPartials\_LoginPartial.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorTargetAssemblyInfo.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorTargetAssemblyInfo.cs
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.Views.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.CopyComplete
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\refint\AppointmentManagementSystem.dll
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.pdb
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.genruntimeconfig.cache
+E:\AppoinmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\ref\AppointmentManagementSystem.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\libman.json
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.StaticWebAssets.xml
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\appsettings.json
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.exe
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.deps.json
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.runtimeconfig.json
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.runtimeconfig.dev.json
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\mscorlib.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\netstandard.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.AppContext.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Buffers.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Configuration.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Console.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Data.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Drawing.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Memory.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Numerics.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Transactions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Web.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Windows.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\refs\WindowsBase.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.Views.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\AppointmentManagementSystem.Views.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Humanizer.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\RestSharp.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.AssemblyReference.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.AssemblyInfoInputs.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.AssemblyInfo.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.CoreCompileInputs.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorAssemblyInfo.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorAssemblyInfo.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\scopedcss\bundle\AppointmentManagementSystem.styles.css
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\staticwebassets\AppointmentManagementSystem.StaticWebAssets.Manifest.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\staticwebassets\AppointmentManagementSystem.StaticWebAssets.xml
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.TagHelpers.input.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.TagHelpers.output.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorCoreGenerate.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\CustomPartials\_AddEditAppointment.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\CustomPartials\_LoginPartial.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorTargetAssemblyInfo.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.RazorTargetAssemblyInfo.cs
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.Views.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.csproj.CopyComplete
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\refint\AppointmentManagementSystem.dll
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.pdb
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\AppointmentManagementSystem.genruntimeconfig.cache
+J:\Projects\C#\AppointmentManagementSystem\AppoinmentManagementSystem\obj\Debug\net5.0\ref\AppointmentManagementSystem.dll

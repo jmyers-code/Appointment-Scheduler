@@ -1,0 +1,50 @@
+﻿@model AppointmentManagementSystem.Models.ViewModels.LoginViewModel
+
+
+<h2 class="text-center text-secondary">Sign In</h2>
+<hr />
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <section id="loginForm">
+            <form id="account" method="post" asp-action="Login">
+                <h4>Use your user login code and password to login</h4>
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group row">
+                    <label class="col-md-2" asp-for="LoginCode"></label>
+                    <div class="col-md-10">
+                        <input asp-for="LoginCode" class="form-control" />
+                        <span asp-validation-for="LoginCode" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-md-2" asp-for="Password"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-md-10 offset-md-2 checkbox">
+                        <label asp-for="RememberMe" class="pr-4 pl-0">
+                            <input asp-for="RememberMe" class="text-danger" />
+                        </label>
+                        Remember me?
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-10 offset-md-2">
+                        <input type="submit" value="Log in" class="btn btn-success" />
+                    </div>
+                </div>
+                <p class="col-md-10 offset-md-2">
+                    <a asp-action="Register">Sign Up</a>
+                </p>
+            </form>
+        </section>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
